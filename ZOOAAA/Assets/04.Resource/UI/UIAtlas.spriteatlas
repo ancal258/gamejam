@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: abec368558c105246a7a3a9aa8b848d3, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: df8ffb015c669434ba04b41fbae118f3, type: 3}
+  - {fileID: 21300000, guid: 751b1966ff0e8e44da26fc5e459bcf74, type: 3}
+  - {fileID: 21300000, guid: 1192e87ecad0df94099b6fb805656093, type: 3}
+  - {fileID: 21300000, guid: fcfc714d3c18d174593055c4a79691c4, type: 3}
+  - {fileID: 21300000, guid: f57476d017cf7444098945ca8884e381, type: 3}
+  - {fileID: 21300000, guid: fecb8fca9154fa848bb580bd355d607f, type: 3}
+  - {fileID: 21300000, guid: db75acdc8dfe9b24e82344e7edd2f689, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TitleText
+  - NEXT_UI
+  - UI_box
+  - UI_smallbox
+  - Arrow
+  - "\uD30C\uC6CC\uAC8C\uC774\uC9C0_\uD14C\uB450\uB9AC"
+  - "\uD30C\uC6CC\uAC8C\uC774\uC9C0"
+  m_Tag: UIAtlas
+  m_IsVariant: 0
